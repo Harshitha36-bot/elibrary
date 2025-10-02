@@ -1,0 +1,172 @@
+id:1
+title:Gaudapadasar part 1
+author:Swami Maheshananda Giri
+year:2004
+language:Sanskrit & Hindi
+script:2004
+category:Philosophy
+filePath:"\hindi\13 dp Gaudpadasar Part 1.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/13%20dp%20Gaudpadasar%20Part%201.pdf?csf=1&web=1&e=XyYoxm
+
+id:2
+Author: Swami Maheshananda Giri Maharaj  
+Editor: Pandit Bhagirath Upadhyay (‘Vatsayanacharya’)  
+Year: ca. 2004  
+Script: Devanagari  
+Language: Hindi  
+Category: Philosophy / Spiritual Discourses
+filePath:"E:\hindi\10 dp Sadhan Sangram part 2.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/10%20dp%20Sadhan%20Sangram%20part%202.pdf?csf=1&web=1&e=EedCsa
+
+id:3
+title:Gaudapadsar part 2,
+author:Swami Maheshananda Giri,
+year:circa 2004
+language:Sanskrit & Hindi
+script:Devanagari,
+category:Philosophy,
+filePath:"E:\hindi\14 dp Gaudpadasar Part 2.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/14%20dp%20Gaudpadasar%20Part%202.pdf?csf=1&web=1&e=o1CkMm
+
+id:4
+title: Naishkarmya Siddhi, Bhavatattva Prakashika  
+author: Shrimat Parameshwaracharya, Shri Vedasudhacharya
+year: ca. 2004  
+language: Sanskrit  
+script: Devanagari  
+category: Philosophy
+filePath:"\hindi\15 dp Naishkmrysidhi.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/15%20dp%20Naishkmrysidhi.pdf?csf=1&web=1&e=iyzneU
+
+id:5
+title: Kenopanishad Bhashyadvayam  
+author: Shrimad Rangarajacharya, Swami Swaprakash Giri  
+year: 2005  
+language: Sanskrit, Hindi  
+script: Devanagari  
+category: Philosophy
+filePath:"\hindi\16 dp Kenopnishbdhashyadvayam.pdf
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/16%20dp%20Kenopnishbdhashyadvayam.pdf?csf=1&web=1&e=SU4bNH
+
+id:6
+title: Shraddha Tatha Samarpan  
+author: Swami Prajnanananda Tirtha  
+year: 2005  
+language: Hindi  
+script: Devanagari  
+category: Philosophy,
+filePath:"\hindi\16 dp Kenopnishbdhashyadvayam.pdf",
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/2015.319562.Tatva-Chintamani-6.pdf?csf=1&web=1&e=lIpgVW
+
+id:7
+title:Tattva-Chintamani (Part 6)
+author: Hanuman Prasad Poddar
+year: 1999
+language: Hindi
+script: Devanagari
+category: Philosophy
+filePath:"\hindi\2015.319562.Tatva-Chintamani-6.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/2015.319562.Tatva-Chintamani-6.pdf?csf=1&web=1&e=CvjGcb
+
+id:8
+title: Tattva-Chintamani (Part 4)
+author: Jayadatta Govindarava
+year: 1916
+language: English (translated from Hindi)
+script: Devanagari
+category:  Philosophy
+filePath:
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/2015.319563.Tatva-Chintamani-4.pdf?csf=1&web=1&e=0JKb6b
+
+id:9
+title: Tattva-Chintamani
+author: Brahmanandji
+year: 1916
+language: Hindi
+script: Devanagari
+category: Philosophy
+filePath:"\hindi\2015.319565.Tatva-Chintamani.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/2015.319565.Tatva-Chintamani.pdf?csf=1&web=1&e=RTlvN7
+
+id:10
+title:Tattva-Chintamani(part-5)
+author:Hanumanprasad Poddar.
+year:
+language:Hindi
+script:Devanagari
+category:
+filePath:"\hindi\2015.319564.Tatva-Chintamani-5.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/2015.319564.Tatva-Chintamani-5.pdf?csf=1&web=1&e=Pam0gD
+
+id:11
+title:
+author:
+year:
+language:
+script:
+category:
+filePath:
+externalLink:
+
+
+
+id:12
+title: Manopa-Panchak
+author: Shri Swaroopanand Parijnanashram Maharaj Shishya, Maheshanand Giri Maharaj
+year: NA
+language: Hindi
+script: Devanagari
+category: Philosophy
+filePath:"\hindi\4 dp Manisha-Panchak.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/4%20dp%20Manisha-Panchak.pdf?csf=1&web=1&e=yR3q1A
+
+id:13
+title:Rudra
+author:NA
+year:NA
+language:Hindi
+script:Devanagari
+category:philosophy
+filePath:"\hindi\5 dp Rudra.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/5%20dp%20Rudra.pdf?csf=1&web=1&e=b85Msz
+
+id:14
+title:Jindagi Muft Ya Samvedanshil
+author:Sampat Saraswa
+year:NA
+language:Hindi
+script:Devanagari
+category:Philosophy
+filePath:"\hindi\Jindagi Muft Ya Samvedanshil By Sampat Saraswat Publishers Mahapran Prakashan Bikaner.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/Jindagi%20Muft%20Ya%20Samvedanshil%20By%20Sampat%20Saraswat%20Publishers%20Mahapran%20Prakashan%20Bikaner.pdf?csf=1&web=1&e=jxmX7e
+
+id:15
+title:ShriTara-kalpataru
+author: Swami Ramsingh, Haridwar
+year: 2006
+language: Hindi
+script: Devanagari
+category:Tantra
+filepath:"\hindi\394550893-Tara-Kalpa-Taru.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/394550893-Tara-Kalpa-Taru.pdf?csf=1&web=1&e=EqyLoG
+
+id:16
+title:Jeevan darshan
+author:Swami ishwaranandagiri 
+year:Na
+language:Hindi & sanskrit  
+script:Devanagari
+category:Philosophy  
+filepath:"\hindi\Jivan Darshana (Hin, San) - Swami Iswarananda Giri.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/Jivan%20Darshana%20(Hin,%20San)%20-%20Swami%20Iswarananda%20Giri.pdf?csf=1&web=1&e=zibiR6
+
+id:17
+title: Jeevanmuktivivekasar
+author: Swami Vidyaranya
+year: 1909
+language: Marathi and Sanskrit
+script: Devanagari
+category: Philosophy
+filepath:"\hindi\Jivanmukti Viveka Sara - Vishnu Vaman Bapat,Shastri.pdf"
+externalLink:https://adminct-my.sharepoint.com/:b:/r/personal/varun_mallapur_chitrapurmath_net_in/Documents/Scanned%20Books/Hindi/Jivanmukti%20Viveka%20Sara%20-%20Vishnu%20Vaman%20Bapat,Shastri.pdf?csf=1&web=1&e=ibe068
+
